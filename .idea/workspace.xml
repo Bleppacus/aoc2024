@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="033fbacd-25d9-4b71-a813-cfa87250b370" name="Changes" comment="" />
+    <list default="true" id="033fbacd-25d9-4b71-a813-cfa87250b370" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inputs/1.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,25 +35,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;Go Build.go build DayOne.go.executor&quot;: &quot;Debug&quot;,
-    &quot;Go Build.go build aoc2024.executor&quot;: &quot;Debug&quot;,
-    &quot;Go Build.go build hello.go.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;&lt;unknown&gt;&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/IdeaProjects/golang/aoc2024/aocmain.go&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build DayOne.go.executor": "Debug",
+    "Go Build.go build aoc2024.executor": "Debug",
+    "Go Build.go build hello.go.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/root",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -58,7 +62,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11464843" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17207031" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -72,7 +76,7 @@
       <window_info anchor="bottom" id="Debug" order="4" weight="0.30926722" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.30926722" />
       <window_info anchor="bottom" id="Services" order="6" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.3301006" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3301006" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="make" side_tool="true" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
@@ -81,7 +85,7 @@
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <window_info anchor="right" id="documentation.v2" order="4" side_tool="true" visible="true" weight="0.19785157" />
+      <window_info anchor="right" id="documentation.v2" order="5" side_tool="true" visible="true" weight="0.19785157" />
     </layout>
   </component>
   <component name="RecentsManager">

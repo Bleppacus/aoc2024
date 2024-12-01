@@ -11,7 +11,7 @@ func main() {
 }
 
 func ReadFile(fileName string) string {
-	file, err := os.ReadFile("inputs/" + fileName + ".txt")
+	file, err := os.ReadFile("input/" + fileName + ".txt")
 	if err != nil {
 		fmt.Println(err)
 	}
