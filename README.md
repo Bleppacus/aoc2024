@@ -1,2 +1,3 @@
 # aoc2024
  
+Try it out in Go this year, I said...
