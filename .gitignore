@@ -16,8 +16,9 @@
 *.out
 
 # Dependency directories (remove the comment below to include it)
+.idea/*
 .idea/
-*.sln.iml
+.idea
 input
 
 # Go workspace file
