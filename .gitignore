@@ -18,6 +18,7 @@
 # Dependency directories (remove the comment below to include it)
 .idea
 inputs\
+Inputs\
 
 # Go workspace file
 go.work
